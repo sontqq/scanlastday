@@ -1,5 +1,6 @@
 # scanlastday
-Bash script to scan files from last day
+
+Bash script to scan files which was modified in the last 24 hour.
 
 **Requires**
 ```
